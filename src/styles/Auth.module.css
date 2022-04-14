@@ -1,0 +1,36 @@
+.login_toggleMode {
+  cursor: pointer;
+  color: #0000ff;
+}
+
+.login_modal {
+  text-align: center;
+}
+
+.login_reset {
+  cursor: pointer;
+}
+
+.login_hiddenIcon {
+  text-align: center;
+  display: none;
+}
+
+.login_addIcon {
+  cursor: pointer;
+}
+
+.login_addIconLoaded {
+  cursor: pointer;
+  color: whitesmoke;
+}
+
+.modal {
+  outline: none;
+  position: absolute;
+  width: 500px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 5px 5px 5px;
+  padding: 50px;
+}
